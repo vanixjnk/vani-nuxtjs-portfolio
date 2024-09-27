@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "title": "Vani",
+        "description": "I'm Vani - Freshman at Ho Chi Minh City University of Education (HCMUE)",
+        "keywords": "Vani, Vani Developer, Vani the dev, Vani frontend developer, vanixjnk, github, vani nextjs portfolio, nextjs portfolio, portfolio, github"
+    },
+
+    "name": "Nguyễn Đình Bảo (Vani)",
+    "role": "Front-End Developer",
+    "description": "Tôi là một nhà phát triển Front-end với hơn +4 years kinh nghiệm. Với niềm đam mê tạo ra những giải pháp tinh tế, tôi không ngừng khám phá thế giới phát triển phần mềm đang thay đổi từng ngày. Hành trình của tôi xoay quanh việc chuyển đổi ý tưởng thành mã nguồn, mang lại trải nghiệm người dùng mượt mà và liên tục vượt qua các giới hạn của những gì có thể thực hiện.",
+
+    "about_description": "Sinh năm 2006 tại Khánh Hòa - xứ sở yến sào. Tên thật là Nguyễn Đình Bảo, hiện đang học tại Trường Đại học Sư phạm Thành phố Hồ Chí Minh - HCMUE. Với niềm đam mê tạo ra những giải pháp tinh tế, tôi không ngừng khám phá thế giới phát triển phần mềm đang thay đổi từng ngày. Hành trình của tôi xoay quanh việc chuyển đổi ý tưởng thành mã nguồn, mang lại trải nghiệm người dùng mượt mà và liên tục vượt qua các giới hạn của những gì có thể thực hiện.",
+    "about_image": "/img/vani.png",
+    "education": [{
+            "image": "/img/hcmue.jpg",
+            "organization": "Ho Chi Minh University of Education",
+            "subtitle": "Information Technology",
+            "date": "2024 - Present"
+        },
+        {
+            "image": "/img/pbchs.jpg",
+            "organization": "Phan Boi Chau High School",
+            "subtitle": "Student",
+            "date": "2021 - 2024"
+        }
+    ],
+    "experience": [{
+        "image": "https://pbs.twimg.com/profile_images/960980981892214785/KaSVZO2q_400x400.jpg",
+        "organization": "Front-End Developer",
+        "subtitle": "UI/UX Web Design",
+        "date": "2019 - Present"
+    }],
+    "social_links": {
+        "github": "https://www.github.com/vanixjnk/",
+        "twitter": "https://www.x.com/vanixjnk",
+        "instagram": "https://www.instagram.com/vanixjnk/",
+        "facebook": "https://www.facebook.com/vanixjnk"
+    },
+    "email": "vanixjnk@gmail.com",
+    "skills": {
+        "proglang": ["C++", "JavaScript", "TypeScript", "Python"],
+        "libfw": ["React", "NextJS", "PHP", "NodeJS", "Tailwind", "Ant Design", "Vue", "Nuxt"],
+        "toolplat": ["Git", "Github", "Vercel", "Postman"]
+    },
+
+    "projects": [{
+            "title": "vani-reactjs-portfolio",
+            "description": "A simple portfolio using React.js",
+            "skills": ["React", "Tailwind", "TypeScript"],
+            "link": "https://vanidev.vercel.app/",
+            "github": "https://github.com/vanixjnk/vani-reactjs-portfoliog"
+        },
+
+        {
+            "title": "vani-nextjs-portfolio",
+            "description": "A simple portfolio using Next.js 13 + TypeScript, Tailwind CSS, AntD",
+            "skills": ["Next.js", "Tailwind", "AntD"],
+            "link": "https://vani-nextjs-portfolio.vercel.app/",
+            "github": "https://github.com/vanixjnk/vani-nextjs-portfolio"
+        },
+        {
+            "title": "vani-nextjs-portfolio-2",
+            "description": "Pseudocode to C is a web app that translates pseudocode into C code, aiding in the transition from high-level logic to a lower-level language.",
+            "skills": ["Next.js", "AntD", "React Hot Toast"],
+            "link": "https://vani-nextjs-portfolio-2.vercel.app/",
+            "github": "https://github.com/vanixjnk/vani-nextjs-portfolio-2"
+        }
+    ]
+}
